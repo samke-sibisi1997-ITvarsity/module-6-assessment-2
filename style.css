@@ -8,7 +8,7 @@ body{
     font-family: 'Raleway', sans-serif;
     font-size: 16px;
     font-weight: 400;
-    color: skyblue;
+    color: black;
 }
 
 P{
@@ -55,7 +55,7 @@ a{
 }
 
 #menu a:hover{
-    background-color: #1abc9c;
+    background-color: springgreen;
 }
 
 /* ************************************************************************************************ */
